@@ -17,4 +17,7 @@ This requires to install
 - a known WebSDR (tested so far only with http://websdr.ewi.utwente.nl:8901/)
 
 
+This exercise has been inspired by the fantastic and original idea of CATSync (https://catsyncsdr.wordpress.com), by Oscar DJ0MY.
+
+
 9 May 2023 - Michele Giugliano, PhD (iv3ifz)

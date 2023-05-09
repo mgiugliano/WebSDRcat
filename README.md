@@ -1,6 +1,8 @@
 # WebSDRcat
 
-Minimal python code, demonstrating bidirectional synchronization of a radio with a WebSDR in a browser.
+Minimal python code, demonstrating bidirectional synchronization of a radio with a WebSDR in a browser (watch the video below).
+
+[![Video demonstration](http://img.youtube.com/vi/3LFTDmxrmCY/0.jpg)](http://www.youtube.com/watch?v=3LFTDmxrmCY "Video Demonstration")
 
 This requires to install
 
